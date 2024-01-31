@@ -7,10 +7,12 @@ body {
     font-family: "Single Day", cursive;
     font-weight: 800;
     font-style: normal;
-    background-image: url(/assets/images/storm-background.jpg);
+    background: rgb(52,53,241);
+    background: linear-gradient(180deg, rgba(52,53,241,1) 0%, rgba(253,115,29,1) 53%, rgba(76,252,69,1) 100%);
+    /* background-image: url(/assets/images/storm-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed; */
     }
   
   textarea {
