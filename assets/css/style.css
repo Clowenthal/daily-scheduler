@@ -10,7 +10,8 @@ body {
     background-image: url(/assets/images/storm-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-  }
+    background-attachment: fixed;
+    }
   
   textarea {
     background: transparent;
